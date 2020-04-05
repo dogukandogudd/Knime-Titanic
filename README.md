@@ -1,2 +1,2 @@
 # Knime-Titanic
- Machine learning with titanic data in knime
+Survival with Knime Machine Learning and Titanic data
